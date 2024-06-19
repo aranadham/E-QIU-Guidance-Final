@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-0 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-1 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-2 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-3 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-4 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-5 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-6 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_storage\intermediates\merged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-7 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\1033e36e972b24f495cbeb7edb0f8401\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.4.2-8 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\2eac51aebf3540847895439f31b0eae7\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-9 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\424fe90f0bd6d50b9ed38cb53548737f\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-10 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\5ddc55be9a1f9ca3021e908092377266\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.3.0-11 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\b8b6df94f8602567d25b8a6649572c32\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-12 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\beb1df14a36789fd46f1fa73f36b9595\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.1.0-13 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\f084641140dac9c4660113b476fced8e\transformed\jetified-play-services-base-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-14 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.9\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-15 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.9\android\src\release\res

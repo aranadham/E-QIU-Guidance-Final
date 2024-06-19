@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-0 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-1 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-2 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_auth\generated\res\rs\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-3 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-4 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-5 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-6 A:\FYP\FYP 2\E-QIU-Guidance-web\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-7 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\09c2e597e4155d3538ce47b809d915db\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-8 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\1033e36e972b24f495cbeb7edb0f8401\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-9 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\2eac51aebf3540847895439f31b0eae7\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-10 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\319cace551fbe179928cc09a7272577e\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-11 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\424fe90f0bd6d50b9ed38cb53548737f\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-12 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\5ddc55be9a1f9ca3021e908092377266\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-13 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\9ebd79deafa7858804ec340d69f3fa3d\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-14 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\beb1df14a36789fd46f1fa73f36b9595\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-15 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.17.8\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-16 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.17.8\android\src\release\res

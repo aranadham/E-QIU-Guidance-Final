@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/drawable/notification_icon_background.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/drawable/notification_bg.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/drawable/notification_bg_low.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/drawable/notification_tile_bg.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/drawable/notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/layout/custom_dialog.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/layout/notification_action.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/layout/notification_template_icon_group.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/layout/notification_template_part_chronometer.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/layout/notification_action_tombstone.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.woosmap.woosmap_flutter-merged_res-5:/layout/notification_template_part_time.xml",
+        "source": "com.woosmap.woosmap_flutter-core-1.6.0-6:/layout/notification_template_part_time.xml"
+    }
+]

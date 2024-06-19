@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCm7WytoqYPlwD-mcOYsRVU5i0k3mN7AWY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>142460080066</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.qiuDigitalGuidance</string>
+	<key>PROJECT_ID</key>
+	<string>qiu-digital-guidance</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qiu-digital-guidance.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:142460080066:ios:dfceb5d553a52e2e03505b</string>
+</dict>
+</plist>

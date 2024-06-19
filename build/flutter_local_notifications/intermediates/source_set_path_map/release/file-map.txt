@@ -1,0 +1,13 @@
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-pngs-0 A:\FYP\FYP 2\E-QIU-Guidance-web\build\flutter_local_notifications\generated\res\pngs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-resValues-1 A:\FYP\FYP 2\E-QIU-Guidance-web\build\flutter_local_notifications\generated\res\resValues\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-rs-2 A:\FYP\FYP 2\E-QIU-Guidance-web\build\flutter_local_notifications\generated\res\rs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-3 A:\FYP\FYP 2\E-QIU-Guidance-web\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-4 A:\FYP\FYP 2\E-QIU-Guidance-web\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-5 A:\FYP\FYP 2\E-QIU-Guidance-web\build\flutter_local_notifications\intermediates\merged_res\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-6 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\1033e36e972b24f495cbeb7edb0f8401\transformed\core-1.6.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-7 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\27431ad8332498ff111e5b7b96d5616f\transformed\media-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-annotation-experimental-1.1.0-8 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\424fe90f0bd6d50b9ed38cb53548737f\transformed\jetified-annotation-experimental-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-java-1.0.0-beta04-9 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\5ddc55be9a1f9ca3021e908092377266\transformed\jetified-window-java-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-1.0.0-beta04-10 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\beb1df14a36789fd46f1fa73f36b9595\transformed\jetified-window-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-main-11 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.1.0\android\src\main\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-release-12 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.1.0\android\src\release\res

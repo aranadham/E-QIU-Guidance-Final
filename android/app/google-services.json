@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866694795181",
+    "project_id": "electronic-qiu-guidance-system",
+    "storage_bucket": "electronic-qiu-guidance-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866694795181:android:2c67bdf4fa55bf7afddb24",
+        "android_client_info": {
+          "package_name": "com.example.qiu_digital_guidance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmD26_d74SlcPIqxxjvRT5doU0XXcPGkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

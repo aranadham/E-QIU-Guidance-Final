@@ -1,0 +1,14 @@
+com.woosmap.woosmap_flutter-packaged_res-0 A:\FYP\FYP 2\E-QIU-Guidance-web\build\webview_flutter_android\intermediates\packaged_res\release
+com.woosmap.woosmap_flutter-pngs-1 A:\FYP\FYP 2\E-QIU-Guidance-web\build\woosmap_flutter\generated\res\pngs\release
+com.woosmap.woosmap_flutter-resValues-2 A:\FYP\FYP 2\E-QIU-Guidance-web\build\woosmap_flutter\generated\res\resValues\release
+com.woosmap.woosmap_flutter-rs-3 A:\FYP\FYP 2\E-QIU-Guidance-web\build\woosmap_flutter\generated\res\rs\release
+com.woosmap.woosmap_flutter-mergeReleaseResources-4 A:\FYP\FYP 2\E-QIU-Guidance-web\build\woosmap_flutter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.woosmap.woosmap_flutter-mergeReleaseResources-5 A:\FYP\FYP 2\E-QIU-Guidance-web\build\woosmap_flutter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.woosmap.woosmap_flutter-merged_res-6 A:\FYP\FYP 2\E-QIU-Guidance-web\build\woosmap_flutter\intermediates\merged_res\release
+com.woosmap.woosmap_flutter-core-1.6.0-7 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\1033e36e972b24f495cbeb7edb0f8401\transformed\core-1.6.0\res
+com.woosmap.woosmap_flutter-jetified-annotation-experimental-1.1.0-8 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\424fe90f0bd6d50b9ed38cb53548737f\transformed\jetified-annotation-experimental-1.1.0\res
+com.woosmap.woosmap_flutter-jetified-window-java-1.0.0-beta04-9 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\5ddc55be9a1f9ca3021e908092377266\transformed\jetified-window-java-1.0.0-beta04\res
+com.woosmap.woosmap_flutter-jetified-window-1.0.0-beta04-10 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\beb1df14a36789fd46f1fa73f36b9595\transformed\jetified-window-1.0.0-beta04\res
+com.woosmap.woosmap_flutter-webkit-1.7.0-11 C:\Users\KAREWAN STORE\.gradle\caches\transforms-3\ecc99a5489c8b48a07794ba4836f7934\transformed\webkit-1.7.0\res
+com.woosmap.woosmap_flutter-main-12 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\woosmap_flutter-1.2.1\android\src\main\res
+com.woosmap.woosmap_flutter-release-13 C:\Users\KAREWAN STORE\AppData\Local\Pub\Cache\hosted\pub.dev\woosmap_flutter-1.2.1\android\src\release\res
